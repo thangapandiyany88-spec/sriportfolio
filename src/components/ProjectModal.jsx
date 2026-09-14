@@ -211,7 +211,7 @@ export default function ProjectModal({ project, onClose }) {
           display: flex;
           flex-direction: column;
           animation: scaleUp 0.35s cubic-bezier(0.16, 1, 0.3, 1);
-          box-shadow: 0 30px 90px rgba(0, 0, 0, 0.9), 0 0 40px rgba(201, 168, 106, 0.15);
+          box-shadow: 0 30px 90px rgba(0, 0, 0, 0.9), 0 0 40px rgba(183, 215, 176, 0.15);
         }
 
         @keyframes scaleUp {
@@ -426,7 +426,7 @@ export default function ProjectModal({ project, onClose }) {
         .badge-sw {
           font-size: 0.75rem;
           padding: 4px 12px;
-          background: rgba(201, 168, 106, 0.1);
+          background: rgba(183, 215, 176, 0.1);
           border: 1px solid var(--accent);
           color: var(--accent);
           border-radius: 4px;

@@ -156,7 +156,7 @@ export default function Showreel() {
           border: 1px solid var(--border-color);
           border-radius: 12px;
           overflow: hidden;
-          box-shadow: 0 20px 60px rgba(0, 0, 0, 0.8), 0 0 30px rgba(201, 168, 106, 0.1);
+          box-shadow: 0 20px 60px rgba(0, 0, 0, 0.8), 0 0 30px rgba(183, 215, 176, 0.1);
         }
 
         .showreel-aspect-ratio {
@@ -235,7 +235,7 @@ export default function Showreel() {
           width: 80px;
           height: 80px;
           border-radius: 50%;
-          background: rgba(201, 168, 106, 0.1);
+          background: rgba(183, 215, 176, 0.1);
           border: 1px solid var(--accent);
           display: flex;
           align-items: center;

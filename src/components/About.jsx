@@ -149,7 +149,7 @@ export default function About() {
           width: 40px;
           height: 40px;
           border-radius: 6px;
-          background: rgba(201, 168, 106, 0.1);
+          background: rgba(183, 215, 176, 0.1);
           color: var(--accent);
           display: flex;
           align-items: center;

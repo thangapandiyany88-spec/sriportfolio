@@ -213,7 +213,7 @@ export default function Contact() {
           width: 46px;
           height: 46px;
           border-radius: 8px;
-          background: rgba(201, 168, 106, 0.1);
+          background: rgba(183, 215, 176, 0.1);
           border: 1px solid var(--accent);
           color: var(--accent);
           display: flex;
@@ -312,7 +312,7 @@ export default function Contact() {
           align-items: center;
           gap: 8px;
           padding: 12px;
-          background: rgba(201, 168, 106, 0.15);
+          background: rgba(183, 215, 176, 0.15);
           border: 1px solid var(--accent);
           border-radius: 6px;
           color: var(--accent);

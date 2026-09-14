@@ -113,7 +113,7 @@ export default function ProjectCard({ project, onSelect }) {
           display: flex;
           align-items: center;
           justify-content: center;
-          box-shadow: 0 0 25px rgba(201, 168, 106, 0.6);
+          box-shadow: 0 0 25px rgba(183, 215, 176, 0.6);
           transform: scale(0.8);
           transition: transform var(--transition-fast);
         }
@@ -150,7 +150,7 @@ export default function ProjectCard({ project, onSelect }) {
           background: rgba(8, 8, 8, 0.8);
           backdrop-filter: blur(8px);
           color: var(--accent);
-          border: 1px solid rgba(201, 168, 106, 0.3);
+          border: 1px solid rgba(183, 215, 176, 0.3);
           border-radius: 4px;
         }
 

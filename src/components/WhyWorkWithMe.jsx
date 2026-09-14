@@ -96,7 +96,7 @@ export default function WhyWorkWithMe() {
           width: 42px;
           height: 42px;
           border-radius: 8px;
-          background: rgba(201, 168, 106, 0.1);
+          background: rgba(183, 215, 176, 0.1);
           border: 1px solid var(--accent);
           color: var(--accent);
           display: flex;

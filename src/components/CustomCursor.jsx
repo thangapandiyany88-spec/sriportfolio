@@ -89,7 +89,7 @@ export default function CustomCursor() {
         .custom-cursor-ring.hovered {
           width: 54px;
           height: 54px;
-          background-color: rgba(201, 168, 106, 0.15);
+          background-color: rgba(183, 215, 176, 0.15);
           border-color: var(--accent);
           opacity: 1;
         }

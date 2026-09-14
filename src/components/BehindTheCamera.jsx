@@ -72,7 +72,7 @@ export default function BehindTheCamera() {
           width: 40px;
           height: 40px;
           border-radius: 50%;
-          background: rgba(201, 168, 106, 0.1);
+          background: rgba(183, 215, 176, 0.1);
           border: 1px solid var(--accent);
           color: var(--accent);
           display: flex;

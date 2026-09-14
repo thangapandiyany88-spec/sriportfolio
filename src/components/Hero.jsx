@@ -104,7 +104,7 @@ export default function Hero() {
           left: 15%;
           width: 400px;
           height: 400px;
-          background: rgba(201, 168, 106, 0.12);
+          background: rgba(183, 215, 176, 0.12);
           animation: pulseGlow 8s infinite alternate ease-in-out;
         }
 
@@ -140,7 +140,7 @@ export default function Hero() {
           align-items: center;
           gap: 8px;
           padding: 8px 16px;
-          background: rgba(201, 168, 106, 0.08);
+          background: rgba(183, 215, 176, 0.08);
           border: 1px solid var(--border-color);
           border-radius: 100px;
           font-family: var(--font-heading);

@@ -14,13 +14,13 @@
   --text-secondary: #a3a3a3;
   --text-muted: #666666;
   
-  --accent: #c9a86a;
-  --accent-hover: #dfb978;
-  --accent-muted: rgba(201, 168, 106, 0.15);
-  --accent-glow: rgba(201, 168, 106, 0.35);
+  --accent: #B7D7B0; 
+  --accent-hover: #c5e3be;
+  --accent-muted: rgba(183, 215, 176, 0.15);
+  --accent-glow: rgba(183, 215, 176, 0.35);
   
   --border-color: rgba(255, 255, 255, 0.10);
-  --border-color-hover: rgba(201, 168, 106, 0.4);
+  --border-color-hover: rgba(183, 215, 176, 0.4);
   
   /* Typography */
   --font-heading: 'Space Grotesk', 'Sora', sans-serif;
@@ -166,9 +166,9 @@ button {
   margin-bottom: 48px;
 }
 
-/* Gold Gradient Text */
+/* Green Gradient Text */
 .gold-text {
-  background: linear-gradient(135deg, #ffffff 0%, var(--accent) 70%, #997838 100%);
+  background: linear-gradient(135deg, #ffffff 0%, var(--accent) 70%, #8fb888 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -189,13 +189,13 @@ button {
   padding: 14px 28px;
   border-radius: 4px;
   transition: all var(--transition-fast);
-  box-shadow: 0 4px 20px rgba(201, 168, 106, 0.2);
+  box-shadow: 0 4px 20px rgba(183, 215, 176, 0.2);
 }
 
 .btn-primary:hover {
   background: var(--accent-hover);
   transform: translateY(-2px);
-  box-shadow: 0 8px 30px rgba(201, 168, 106, 0.4);
+  box-shadow: 0 8px 30px rgba(183, 215, 176, 0.4);
 }
 
 .btn-secondary {

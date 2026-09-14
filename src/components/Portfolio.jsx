@@ -123,7 +123,7 @@ export default function Portfolio() {
           background: var(--accent);
           color: #080808;
           border-color: var(--accent);
-          box-shadow: 0 4px 15px rgba(201, 168, 106, 0.3);
+          box-shadow: 0 4px 15px rgba(183, 215, 176, 0.3);
         }
 
         .portfolio-grid {
